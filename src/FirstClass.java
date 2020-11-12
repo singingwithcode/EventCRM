@@ -11,7 +11,7 @@
  * 
  * NOTE2: When a DELETE is ran, it may take up to 2 minutes, DO NOT TRY AND RE-RUN when it stops, 
  * wait until the query has executed since it will continue down the list. 
- * 
+ *  
  */
 
 
